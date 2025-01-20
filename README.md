@@ -16,6 +16,7 @@
 - ⚡ Fun fact **I think i am good at team work.**
 
 <h3 align="left">Connect with me:</h3>
+<h5><a hre="www.linkedin.com/in/muhammad-hamza-shamsi">Linkedin</a></h5>
 <p align="left">
 </p>
 
@@ -26,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-hamzashamsi&show_icons=true&locale=en" alt="muhammad-hamzashamsi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-hamzashamsi&" alt="muhammad-hamzashamsi" /></p>
+
 
