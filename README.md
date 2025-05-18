@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-HamzaShamsi?tab=repositories](https://github.com/Muhammad-HamzaShamsi?tab=repositories)
 
-- 📫 How to reach me **Muhammad.Hamza.Shamsi@outlook.com**
+- 📫 How to reach me **Muhammadhamzashamsi35@gmail.com**
 
 - ⚡ Fun fact **I think i am good at team work.**
 
